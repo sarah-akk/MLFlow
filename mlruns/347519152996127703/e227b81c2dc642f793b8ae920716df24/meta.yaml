@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sarah/Documents/programing%20projects/python/MLFlow/mlruns/347519152996127703/e227b81c2dc642f793b8ae920716df24/artifacts
+end_time: 1724621585050
+entry_point_name: ''
+experiment_id: '347519152996127703'
+lifecycle_stage: active
+run_id: e227b81c2dc642f793b8ae920716df24
+run_name: auspicious-bird-522
+run_uuid: e227b81c2dc642f793b8ae920716df24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724621582594
+status: 3
+tags: []
+user_id: Sarah

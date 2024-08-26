@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sarah/Documents/programing%20projects/python/MLFlow/mlruns/347519152996127703/d16155fb90bd48aeba57d4b8b850a643/artifacts
+end_time: 1724693325454
+entry_point_name: ''
+experiment_id: '347519152996127703'
+lifecycle_stage: active
+run_id: d16155fb90bd48aeba57d4b8b850a643
+run_name: adaptable-slug-856
+run_uuid: d16155fb90bd48aeba57d4b8b850a643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724693312692
+status: 4
+tags: []
+user_id: Sarah

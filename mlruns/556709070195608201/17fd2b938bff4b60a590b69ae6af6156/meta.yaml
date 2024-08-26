@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sarah/Documents/programing%20projects/python/MLFlow/mlruns/556709070195608201/17fd2b938bff4b60a590b69ae6af6156/artifacts
+end_time: 1724694837325
+entry_point_name: ''
+experiment_id: '556709070195608201'
+lifecycle_stage: active
+run_id: 17fd2b938bff4b60a590b69ae6af6156
+run_name: puzzled-grub-878
+run_uuid: 17fd2b938bff4b60a590b69ae6af6156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724694831566
+status: 3
+tags: []
+user_id: Sarah

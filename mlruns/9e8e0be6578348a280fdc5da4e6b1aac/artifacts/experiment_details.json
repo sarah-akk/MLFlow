@@ -1,0 +1,8 @@
+{
+    "Dataset": "Iris",
+    "User": "Sarah",
+    "Source": "train.py",
+    "Version": "1.0.0",
+    "Model": "Logistic Regression",
+    "Description": "Model trained on the Iris dataset to classify species."
+}

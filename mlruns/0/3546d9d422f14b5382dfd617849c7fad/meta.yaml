@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sarah/Documents/programing%20projects/python/MLFlow/mlruns/0/3546d9d422f14b5382dfd617849c7fad/artifacts
+end_time: 1724620869253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3546d9d422f14b5382dfd617849c7fad
+run_name: serious-hound-64
+run_uuid: 3546d9d422f14b5382dfd617849c7fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724620869206
+status: 3
+tags: []
+user_id: Sarah

@@ -1,0 +1,8 @@
+{
+    "Dataset": "Wine",
+    "User": "Sarah",
+    "Source": "train_wine.py",
+    "Version": "1.0.0",
+    "Model": "Decision Tree Classifier",
+    "Description": "Model trained on the Wine dataset to classify wine types."
+}

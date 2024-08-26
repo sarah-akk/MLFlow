@@ -1,0 +1,6 @@
+{
+    "max_iter": 200,
+    "solver": "lbfgs",
+    "penalty": "l2",
+    "C": 1.0
+}

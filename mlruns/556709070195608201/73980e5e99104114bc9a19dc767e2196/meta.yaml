@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sarah/Documents/programing%20projects/python/MLFlow/mlruns/556709070195608201/73980e5e99104114bc9a19dc767e2196/artifacts
+end_time: 1724694297320
+entry_point_name: ''
+experiment_id: '556709070195608201'
+lifecycle_stage: active
+run_id: 73980e5e99104114bc9a19dc767e2196
+run_name: smiling-kit-278
+run_uuid: 73980e5e99104114bc9a19dc767e2196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724694291632
+status: 3
+tags: []
+user_id: Sarah
