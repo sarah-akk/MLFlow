@@ -10,9 +10,9 @@ Running the Experiment
 
 To run the experiment and log the results to MLflow:
 
-bash
 
-python train.py
+
+    python train.py
 
 This script will:
 
@@ -35,20 +35,20 @@ Accessing the MLflow Dashboard
 
 To view the experiment details in the MLflow UI:
 
-    Start the MLflow server:
+  Start the MLflow server:
 
-bash
 
-mlflow ui
 
-    Open the following URL in your browser:
+    mlflow ui
 
-arduino
+ Open the following URL in your browser:
 
-http://localhost:5000
 
-    Navigate to the "Iris_Model_Experiments" experiment to view all runs.
 
-Results
+    http://localhost:5000
+
+ Navigate to the "Iris_Model_Experiments" experiment to view all runs.
+
+
 
 The experiment achieves an accuracy of approximately X.XXXX on the test set. Detailed results and artifacts can be accessed through the MLflow dashboard.
